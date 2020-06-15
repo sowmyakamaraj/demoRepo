@@ -1,0 +1,13 @@
+Agenda -
+
+Github Introduction
+Repositories and Files
+Learn How to Create Repositories on GitHub
+Create and Edit Files Directly on the Website
+Synchronize your Repository
+Repositories and Branches
+Forks and Pull Requests
+Issues & Labels
+How to Open Issues
+See Pull Requests
+Incorporate (Merge) Pull Requests
